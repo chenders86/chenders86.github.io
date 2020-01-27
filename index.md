@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>PRIVACY POLICY 
+<h1>
+
+PRIVACY POLICY 
 
 Casey Henderson, built the Room-eaze app as a Free app. This SERVICE is provided at no cost and is intended for use as is.
 
@@ -23,9 +25,9 @@ Third party service providers used by the app:
 
 --------------------
 
-Firebase Analytics
+Firebase Analytics - https://firebase.google.com/policies/analytics
 
-Firebase Crashlytics
+Firebase Crashlytics - https://firebase.google.com/terms/crashlytics
 
 --------------------
 
@@ -100,7 +102,9 @@ We may update our Terms and Conditions from time to time. Thus, you are advised 
 
 Contact Us
 
-If you have any questions or suggestions about our Terms of Service do not hesitate to contact me at casey.henderson@icloud.com.</h1>
+If you have any questions or suggestions about our Terms of Service do not hesitate to contact me at casey.henderson@icloud.com.
+
+</h1>
 <p></p>
 </body>
 </html>
